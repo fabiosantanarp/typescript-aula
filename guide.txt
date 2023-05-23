@@ -1,0 +1,23 @@
+npm -v
+npm install -g typescript
+tsc -v
+
+# o que é o TypeScript
+Superset
+conjunto adicional
+"poderes"
+
+#TS em produção
+Não roda em produção
+Ele é um transpiler do Javascript, ou seja, um "conversor"...
+no final das contas tudo é Javascript.
+Ferramenta de desenvolvimento -D
+
+# Importância
+- Ele facilita no desenvolvimento
+- Importante - Dá segurança maior para que o código não quebre (erro de digitação ou erro de funções), principalmente pelo uso de tipagens.
+- Como o Javascript é uma linguagem interpretada, só quando você passa pela linha que você vê o código quebrar. Com o type script, ao rodar o tsc, 
+ele vai identificar o problema.
+
+# poderes
+
